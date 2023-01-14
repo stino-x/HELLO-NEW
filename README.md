@@ -1,34 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -60,12 +32,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO-NEW] <a name="about-project">Html/css</a>
+# 📖 [HELLO-NEW] <a name="about-project"></a>
 
->  this is the first phase of my first portfolio project
+>  this is the first project of the microverse curriculum
 
-## 🛠 Built With <a name="built-with">Html/css</a>
-
+## 🛠 Built With <a name="built-with"></a>
+>  Html/css
 ### Tech Stack <a name="tech-stack"></a>
 
 > Html/css
@@ -74,9 +46,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features">hover feature over button</a>
+### Key Features <a name="key-features"></a>
 
->
+>hover feature over button
+>correct use of semantic tags
+> application best coding practices 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,9 +58,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](http://127.0.0.1:5500/index.html))
+- [Live Demo Link](link not available (its not online yet)))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,15 +86,6 @@ install node
 intstall linters and linter extensions
 write basic html/css
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
 
 ### Usage
 
@@ -133,15 +97,15 @@ the use of live server  is recommended
 
 You can deploy this project using:
 
-not ready for deployment
+-not ready for deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Iheagwara Augustine</a>
+## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> Iheagwara Augustine
 
 👤 **Iheagwara Augustine**
 
@@ -153,10 +117,7 @@ not ready for deployment
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-no new features will be added
+maybe a more built out page with more information in its content
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -173,17 +134,16 @@ none to note
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+>Question: how did you link the files? 
+Answer: using the css link in the head tag
 
-- **[how did you link the two files]**
 
-  - [using the css link the the head tag]
+>Question: what linters are involved in this project ?
+Answer: stylelint.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/stino-x/HELLO-NEW/blob/371222a32970be38aa29673a6030d371ddeb8853/MIT.md) licensed.
