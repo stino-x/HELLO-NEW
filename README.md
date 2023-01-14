@@ -146,4 +146,4 @@ Answer: stylelint.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/stino-x/HELLO-NEW/blob/371222a32970be38aa29673a6030d371ddeb8853/MIT.md) licensed.
+This project is [MIT](https://github.com/stino-x/HELLO-NEW/blob/f3f6a2a61bae7b3a741feb90e7b95164b5115428/MIT.md) licensed.
